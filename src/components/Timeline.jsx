@@ -179,12 +179,12 @@ const Timeline = ({ className }) => {
               <FaHome />
             </div>
             <h1 className="text-xl text-white  font-semibold pr-48">
-              12th August
+              1 September
             </h1>
           </div>
           <div className="flex lg:items-center gap-28 ml-12 items-start lg:flex-row flex-col-reverse">
             <h1 className="text-xl text-white resBox leftBox font-semibold">
-             30th August
+             8 September
             </h1>
             <div
               
@@ -205,13 +205,13 @@ const Timeline = ({ className }) => {
               <FaWalking />
             </div>
             <h1 className="text-xl text-white rightBox font-semibold pr-36">
-              5th September
+              15th September
             </h1>
           </div>
          
           <div className="flex lg:items-center resBox gap-28 ml-12 items-start lg:flex-row flex-col-reverse">
             <h1 className="text-xl text-white leftBox font-semibold">
-             6th September
+             16th September
             </h1>
             <div
               
@@ -232,7 +232,7 @@ const Timeline = ({ className }) => {
               <FaWalking />
             </div>
             <h1 className="text-xl text-white rightBox font-semibold pr-48">
-              6th September
+              16-17th September
             </h1>
           </div>
         </div>

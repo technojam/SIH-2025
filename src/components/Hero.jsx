@@ -28,7 +28,7 @@ const Hero = () => {
             <div>
               <ReactTyped
                 className="text-2xl font-bold text-[#f6921e]"
-                strings={["September 5-6, 2024"]}
+                strings={["September 15-16, 2025"]}
                 typeSpeed={40}
                 backSpeed={50}
                 loop
