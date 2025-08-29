@@ -1,0 +1,55 @@
+.timeline {
+  background-color: #070c1d;
+}
+.tmhead {
+  font-size: 3.5rem;
+  padding: 50px;
+  color: white;
+  text-align: center;
+}
+
+ul {
+  margin-bottom: 0;
+}
+
+.bg {
+  position: fixed;
+  background-color: rgb(0, 0, 0);
+  opacity: 60%;
+  bottom: 0;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+.table button {
+  display: block;
+  margin-left: auto;
+  padding: 5px 10px;
+  background-color: rgb(243, 127, 26);
+  border-radius: 50%;
+  border: none;
+  color: white;
+}
+.table {
+  background-color: white;
+  width: 80%;
+  position: fixed;
+  left: 10%;
+  padding: 9px;
+  border-radius: 10px;
+  box-shadow: 30px 30px 15px rgb(0 0 0 / 0.2);
+}
+
+.table th {
+  min-width: 50px;
+  padding: 5px;
+}
+.des {
+  font-size: 0.8rem;
+  max-height: 260px;
+  overflow: auto;
+}
+.table p {
+  overflow: auto;
+}
