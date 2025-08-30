@@ -42,7 +42,7 @@ const Navbar = () => {
           >
             Events
           </a>
-          <a
+          {/* <a
             href="#sponsors"
             className={`cursor-pointer duration-200 hover:scale-110 hover:text-[#f6921e]`}
           >
@@ -53,7 +53,7 @@ const Navbar = () => {
             className={`cursor-pointer duration-200 hover:scale-110 hover:text-[#f6921e]`}
           >
             Prize
-          </a>
+          </a> */}
           <a
             href="mailto:technojam@galgotiasuniversity.edu.in"
             className={`cursor-pointer duration-200 hover:scale-110 hover:text-[#f6921e]`}

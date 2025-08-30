@@ -42,7 +42,7 @@ const About = () => {
 
         </p>
         <p className="paragraph font-light leading-6 text-white text-sm md:text-base lg:text-lg mt-5">
-        Participants from our university will confront a diverse array of challenges, spanning 17 themes across multiple domains, including 157 software problems and 58 hardware problems.
+        Participants from our university will confront a diverse array of challenges, spanning 17 themes across multiple domains, including 73 software problems and 28 hardware problems.
 
         </p>
         <p className="paragraph font-light leading-6 text-white text-sm md:text-base lg:text-lg mt-5">
