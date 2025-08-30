@@ -83,7 +83,7 @@ const Hero = () => {
               
               className="bg-[#f6921e] hover:text-[#f6921e] disabled:hidden hover:bg-yellow-200 rounded-md font-medium text-xl px-5 py-3 ease-in-out duration-200 hover:scale-95 "
             >
-              <Link to="https://forms.gle/ALHaCN6zdSg7Lusc8">Submit Idea</Link>
+              <Link to="https://docs.google.com/forms/d/e/1FAIpQLSfJrYYARl8wnPs9byJmc3QPXRT_D0cBxa6JKealj5UsD7-Y-A/viewform?usp=header">Register Now</Link>
             </button>
 
             <Link

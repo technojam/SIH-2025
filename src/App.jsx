@@ -42,7 +42,7 @@ const App = () => {
         <Timeline />
         <TimerCounter />
         {/*<Prize />*/}
-        <Sponsors />
+        {/* <Sponsors /> */}
        {/* <CommunityPartners/> */}
         <ImageSlider />
         {/* <Judges heading={"Judges"} lists={judgesList} />

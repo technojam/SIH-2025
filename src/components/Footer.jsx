@@ -40,7 +40,7 @@ const Footer = ({ className }) => {
             >
               <a href="https://www.gps.ie/">gps trackers</a>
             </iframe>
-            <h2 className="mt-4 text-[#f6921e] font-bold">April 2024</h2>
+            <h2 className="mt-4 text-[#f6921e] font-bold">September 2025</h2>
             <p className="w-[200px]">Galgotias University, Greater Noida</p>
           </div>
         </div>
@@ -120,6 +120,14 @@ const Footer = ({ className }) => {
               >
                 <li className="hover:pl-3 transition-all duration-150 ease-linear text-gray-400 cursor-pointer hover:text-[#f6921e]">
                   NASA Space Apps Challenge 2022
+                </li>
+              </a>
+              <a
+                href="https://www.instagram.com/teamtechnojam/p/DI6tU3NB7ki/"
+                target="_blank"
+              >
+                <li className="hover:pl-3 transition-all duration-150 ease-linear text-gray-400 cursor-pointer hover:text-[#f6921e]">
+                  Build with AI
                 </li>
               </a>
             </ul>
