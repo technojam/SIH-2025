@@ -42,7 +42,7 @@ const Timer3 = () => {
   };
 
   const startCountDown = useCallback(() => {
-    const countDownDate = new Date("September 8, 2025 00:00:00").getTime();
+    const countDownDate = new Date("September 11, 2025 00:00:00").getTime();
 
     const interval = setInterval(() => {
       getTimeDifference(countDownDate);
