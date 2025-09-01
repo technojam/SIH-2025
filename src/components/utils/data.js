@@ -9,6 +9,7 @@ export const data = [
     bucket: "MedTech / BioTech / HealthTech",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "medtech.webp",
     ps: [
       {
         ID: "SIH25001",
@@ -80,6 +81,7 @@ export const data = [
     bucket: "Travel & Tourism",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "transport.jpeg",
     ps: [
       {
         ID: "SIH25002",
@@ -116,6 +118,7 @@ export const data = [
     bucket: "Transportation & Logistics",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "logistic.webp",
     ps: [
       {
         ID: null,
@@ -159,6 +162,7 @@ export const data = [
     bucket: "Uncategorized",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "uncatgorized.webp",
     ps: [
       {
         ID: "SIH25004",
@@ -174,6 +178,7 @@ export const data = [
     bucket: "Agriculture FoodTech & Rural Development",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "agricult.webp",
     ps: [
       {
         ID: "SIH25005",
@@ -273,6 +278,7 @@ export const data = [
     bucket: "Disaster Management",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "dis.webp",
     ps: [
       {
         ID: "SIH25008",
@@ -323,6 +329,7 @@ export const data = [
     bucket: "Smart Education",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "edu.webp",
     ps: [
       {
         ID: "SIH25009",
@@ -471,6 +478,7 @@ export const data = [
     bucket: "Clean & Green Technology",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "clean.webp",
     ps: [
       {
         ID: "SIH25014",
@@ -521,6 +529,7 @@ export const data = [
     bucket: "Smart Automation",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "auto.webp",
     ps: [
       {
         ID: "SIH25020",
@@ -613,6 +622,7 @@ export const data = [
     bucket: "Blockchain & Cybersecurity",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "lak.webp",
     ps: [
       {
         ID: "SIH25027",
@@ -628,6 +638,7 @@ export const data = [
     bucket: "Miscellaneous",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "div.webp",
     ps: [
       {
         ID: "SIH25035",
@@ -748,6 +759,7 @@ export const data = [
     bucket: "Renewable / Sustainable Energy",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "rene.webp",
     ps: [
       {
         ID: "SIH25041",
@@ -784,6 +796,7 @@ export const data = [
     bucket: "Robotics and Drones",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "drone.webp",
     ps: [
       {
         ID: "SIH25047",
@@ -799,6 +812,7 @@ export const data = [
     bucket: "Heritage & Culture",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "heri.webp",
     ps: [
       {
         ID: "SIH25052",
@@ -821,6 +835,7 @@ export const data = [
     bucket: "Fitness & Sports",
     icon: "GiAutoRepair",
     hueDeg: 0,
+    image: "he.webp",
     ps: [
       {
         ID: "SIH25073",
