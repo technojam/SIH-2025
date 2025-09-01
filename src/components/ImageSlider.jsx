@@ -7,41 +7,30 @@ import { LazyLoadImage } from "react-lazy-load-image-component";
 function ImageSlider() {
   const slides = [
     {
-      url: "/Dex-1.1.png",
+      url: "event1.jpg",
     },
     {
-      url: "/Dex-1.2.png",
+      url: "event2.jpg",
     },
     {
-      url: "/Dex-2.1.png",
+      url: "event3.jpg",
     },
     {
-      url: "/Dex-2.2.png",
+      url: "event4.jpg",
     },
     {
-      url: "/Dex-2.3.png",
+      url: "event5.jpg",
     },
     {
-      url: "/Dex-3.1.png",
+      url: "event6.jpg",
     },
     {
-      url: "/Dex-3.2.png",
+      url: "event7.jpg",
     },
     {
-      url: "/Dex-3.2.png",
+      url: "event8.jpg",
     },
-    {
-      url: "/nasa-1.1.png",
-    },
-    {
-      url: "/nasa-2.1.png",
-    },
-    {
-      url: "/nasa-2.2.png",
-    },
-    {
-      url: "/alexa-student-day.png",
-    },
+    
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
