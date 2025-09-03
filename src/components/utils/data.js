@@ -73,6 +73,20 @@ export const data = [
         Category: "Software",
         Description: "Problem Statement:\n\nContext:\nMental health issues among college students have significantly increased in recent years, including anxiety, depression, burnout, sleep disorders, academic stress, and social isolation. However, there is a major gap in the availability, accessibility, and stigma-free delivery of mental health support in most higher education institutions, especially in rural and semi-urban colleges.\n\nProblem Faced:\n- Absence of a structured, scalable, and stigma-free psychological intervention system.\n- Lack of early detection and preventive mental health tools.\n- Under-utilization of college counselling centres due to fear of judgment or lack of awareness.\n- No centralized mental health monitoring or data-driven policy framework within institutions.\n\nProposed Technological Challenge:\nDevelop a Digital Psychological Intervention System (web-based and/or mobile app) with the following capabilities:\n1. AI-guided First-Aid Support: Interactive chat box that offers coping strategies and refers students to professionals when needed.\n2. Confidential Booking System: For appointment with on-campus counsellor or mental health helpline.\n3. Psychoeducational Resource Hub: Videos, relaxation audio, mental wellness guides in regional languages.\n4. Peer Support Platform: Moderated peer-to-peer support forum with trained student volunteers.\n5. Admin Dashboard: Anonymous data analytics for authorities to recognize trends and plan interventions.\n\nDepartment/Section Owning the Problem:\nDepartment of Student Welfare / Department of Psychology / Internal Quality Assurance Cell (IQAC).\n\nProblem Explanation Video:\nTo be prepared by students.\n\nNeed for Digital Platform for Psychological Support:\nMost available apps are generic, Western-oriented, or paid. They do not integrate:\n\u2022 Regional cultural context and language\n\u2022 Institution-specific customization\n\u2022 Offline support mapping (e.g., linking with college counsellors)\n\u2022 Real-time analytics for admin\nHence, a tailored open-source solution is needed.\n\nSample Data/Data Structures for Participants:\n\u2022 Level of problem through standard psychological screening tools (PHQ-9 / GAD-7 / GHQ, etc.)\n\u2022 Mock student profiles (anonymized)\n\u2022 Institutional support structure (counsellor availability, resources, helpline)",
         Org: "Government of Jammu and Kashmir"
+      },
+      {
+        ID: "SIH25114",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "Cutting-edge technology in these sectors continues to be in demand. Recent shifts in healthcare trends, growing populations also present an array of opportunities for innovation.",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25131",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "Cutting-edge technology in these sectors continues to be in demand. Recent shifts in healthcare trends, growing populations also present an array of opportunities for innovation.",
+        Org: "AICTE"
       }
     ]
   },
@@ -110,6 +124,20 @@ export const data = [
         Category: "Software",
         Description: "NATPAC is into transportation planning but accurate data collection is a tideous task. Household data collection using manual survey is also time consuming and does not cover even a small percentage of the population making any planning exercise inadequate. Therefore, the problem statement covers development of a travel related software app that can be installed on mobile phones that could capture trip related information - trip number, origin, time, mode, destination etc - such that a travel related activity and trip chain can be established. Also the number and details of the accompanying travellers also can be captured if possible. Consent from the user is required. Some of these details can be automatically detected and some details can be nudged to be filled by the user. Once these trip details are complete, it can be saved in a server/ database which can be accessed by NATPAC Scientists for planning purposes.",
         Org: "Government of Kerala"
+      },
+      {
+        ID: "SIH25120",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "A solution/idea that can boost the current situation of the tourism industries including hotels, travel and others.",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25137",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "A solution/idea that can boost the current situation of the tourism industries including hotels, travel and others.",
+        Org: "AICTE"
       }
     ]
   },
@@ -154,6 +182,20 @@ export const data = [
         Category: "Software",
         Description: "Description\n\nDesign an AI-based traffic management system to optimize signal timings and reduce congestion in urban areas. The system should analyze real-time traffic data from cameras and IoT sensors to predict and mitigate bottlenecks.\n\nExpected Outcome\n\nA software prototype reducing average commute time by 10% in a simulated urban environment, with a dashboard for traffic authorities to monitor and control signals.\n\nTechnical Feasibility\n\nUses computer vision (e.g., OpenCV) and reinforcement learning for traffic prediction, integrated with existing traffic camera networks.",
         Org: "Government of Odisha"
+      },
+      {
+        ID: "SIH25121",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "Submit your ideas to address the growing pressures on the city├ö├ç├ûs resources, transport networks, and logistic infrastructure",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25138",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "Submit your ideas to address the growing pressures on the city├ö├ç├ûs resources, transport networks, and logistic infrastructure",
+        Org: "AICTE"
       }
     ]
   },
@@ -261,6 +303,20 @@ export const data = [
         Category: "Software",
         Description: "Problem\n\nFarmers often face critical questions related to pests, weather, inputs, subsidies, and market trends\u2014but timely expert advice is rarely accessible. Agri officers and helplines are overburdened, and existing services don\u2019t scale to support individual needs across diverse regions, languages, and literacy levels.\n\nChallenge\n\nBuild an AI-powered advisory system that allows farmers to ask queries in their own language (preferably Malayalam) and receive accurate, context-aware answers instantly.\n\nCore Features\n\n- Natural Language Query Handling: Farmers can ask questions via voice or text in Malayalam\u2014e.g., \u201cWhich pesticide for leaf spot in my banana?\u201d\n- Multimodal Inputs: Support for image uploads (e.g., diseased crop photo) or voice notes.\n- AI-Powered Knowledge Engine: Use LLMs and fine-tuned agri datasets to provide reliable, tailored answers\u2014drawing from local crop calendars, pest advisories, weather, and scheme guidelines.\n- Context Awareness: Factor in the farmer\u2019s location, crop, season, and history (if known) to give personalized advice.\n- Escalation System: For complex or unclear queries, escalate to local agri officers with context and suggestions.\n- Learning Loop: Continuously improve the system using real queries, feedback, and local expert inputs.\n\nExpected Impact\n\n- Makes expert-level farming advice instantly accessible to all.\n- Bridges the communication gap between farmers and extension systems.\n- Supports Krishibhavans and Agri Departments by automating first-level support.\n\nThis system aims to become a \u201cDigital Krishi Officer\u201d\u2014always available, always learning, and always farmer-first.",
         Org: "Government of Kerala"
+      },
+      {
+        ID: "SIH25109",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "Developing solutions, keeping in mind the need to enhance the primary sector of India - Agriculture and to manage and process our agriculture produce",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25126",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "Developing solutions, keeping in mind the need to enhance the primary sector of India - Agriculture and to manage and process our agriculture produce	",
+        Org: "AICTE"
       }
     ]
   },
@@ -312,6 +368,20 @@ export const data = [
         Category: "Hardware",
         Description: "India's substantial chronic kidney disease patient population relies on dialysis services available from sub divisional level hospitals to specialist Centres including mobile units. Current dialysis infrastructure lacks earthquake resistant technology, potentially resulting in treatment interruption and patient mortality during seismic events. A stabilisation system would ensure continuous dialysis delivery during earthquake, safeguarding patient's life",
         Org: "Government of Kerala"
+      },
+      {
+        ID: "SIH25122",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "Disaster Management includes ideas related to risk mitigation and Planning before, after or Duration of Disaster.",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25139",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "Creating intelligent devices to improve the commutation sector.",
+        Org: "AICTE"
       }
     ]
   },
@@ -461,6 +531,20 @@ export const data = [
         Category: "Software",
         Description: "Background: Campus offices answer hundreds of repetitive queries-fee deadlines, scholarship forms, timetable changes often from students more comfortable in Hindi or other regional languages. Long queues and communication gaps strain both staff and learners.. Description: While answers reside in circulars and PDFs, students prefer conversational guidance. A multilingual chatbot that understands Hindi, English, and an additional local language can deflect routine inquiries, freeing staff for complex tasks. Modern conversational-Al services offer drag-and-drop interfaces. Key requirements include accurate intent recognition, context management across multiple turns, fallback to human contact when necessary, and daily conversation logs for continuous improvement. Embedding the chatbot on the college website and popular messaging platforms maximises reach. Crucially, the solution must respect privacy, ensure response accuracy, and remain maintainable by student volunteers after the hackathon concludes. By focusing on content curation and user-centric design, participants can deliver high impact solution quickly. Expected Solution: Student innovators should develop a multilingual conversational assistant that ingests institutional FAQs, recognises and responds to student queries in at least five regional languages, maintains context across follow-up questions, logs interactions for review, and integrates seamlessly into the college's existing web and messaging channels-achieving equitable, round-the-clock information access in a user friendly manner.",
         Org: "Government of Rajasthan"
+      },
+      {
+        ID: "SIH25123",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "Smart Education, a Concept that Describes learning in digital age.it enables learner to learn more effectively, efficently, flexibly and comfortably.",
+        Org: "AICTE"
+      },
+      {    
+        ID: "SIH25140",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "Smart Education, a Concept that Describes learning in digital age.it enables learner to learn more effectively, efficently, flexibly and comfortably.",
+        Org: "AICTE"
       }
     ]
   },
@@ -512,7 +596,22 @@ export const data = [
         Category: "Hardware",
         Description: "GREY WATER MANAGEMENT AND REUSE WET LAND MANAGEMENT WATER CONSERVATION",
         Org: "Government of Kerala"
+      },
+      {
+        ID: "SIH25111",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "Solutions could be in the form of waste segregation, disposal, and improve sanitization system.",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25128",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "Solutions could be in the form of waste segregation, disposal, and improve sanitization system.",
+        Org: "AICTE"
       }
+      
     ]
   },
   {
@@ -605,6 +704,20 @@ export const data = [
         Category: "Software",
         Description: "Background: Admissions, fee collection, hostel allocation, and examination records are maintained in separate ledgers. Students queue at multiple counters; staff re-enter identical data; and administrators lack a real-time institutional overview. Description: Comprehensive ERP suites can unify data but remain out of financial reach for many public colleges. Yet much of the required functionality-customised online forms, central data tables, automated receipts, real-time dashboards-already exists in ubiquitous cloud office suites. By intelligently connecting these services, an institution can create a single source of truth without large capital outlay. Essential components include streamlined admission intake, automated fee receipting, live hostel occupancy tracking, and summary dashboards for higher officials. Data security, role-based access and regular back-ups must be baked in from day one. Because staff is already familiar with basic spreadsheet and form tools, the learning curve remains shallow, ensuring broad adoption. Hackathon participants can demonstrate how thoughtful process mapping and lightweight scripting turn an assortment of familiar apps into a cohesive, low-cost ERP that any college can replicate. Expected Solution: Teams should outline an integrated workflow in which admission data flows seamlessly into a central student database, financial transactions automatically generate digital receipts, hostel and library records update the same database in real time, and summary dashboards present key metrics to administrators all delivered through interlinked, widely available software services rather than proprietary or hardware-intensive solutions.",
         Org: "Government of Rajasthan"
+      },
+      {
+        ID: "SIH25118",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "Ideas focused on the intelligent use of resources for transforming and advancements of technology with combining the artificial intelligence to explore more various sources and get valuable insights.",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25135",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "Ideas focused on the intelligent use of resources for transforming and advancements of technology with combining the artificial intelligence to explore more various sources and get valuable insights.",
+        Org: "AICTE"
       }
     ]
   },
@@ -621,6 +734,20 @@ export const data = [
         Category: "Software",
         Description: "Background\n\nThe Ayurvedic herbal supply chain in India is characterised by fragmented networks of smallholder farmers, wild collectors and multiple intermediaries, leading to challenges in ensuring consistent quality, authenticity and sustainable sourcing of medicinal plants. Variations in harvesting practices, environmental conditions and manual record-keeping introduce risks of mislabeling, adulteration and over-harvesting of vulnerable species, undermining consumer trust and compliance with regulatory standards. Geographic provenance is often undocumented or opaque, making it difficult for manufacturers and regulators to verify that herbs originate from approved regions or follow sustainable collection guidelines.\n\nA blockchain-based traceability system, augmented with geo-tagging technology, can address these gaps by creating an immutable, decentralised ledger that records every step of the herb's journey\u2014from on-site GPS-tagged collection events through processing, testing and formulation. Smart contracts on a permissioned network (e.g., Hyperledger Fabric) can enforce sustainability criteria and automate quality validations, while IoT-enabled devices capture real-time location and environmental data at remote collection points, even via SMS-over-blockchain gateways where connectivity is sparse. By integrating FHIR-style metadata bundles (e.g., \"CollectionEvent,\" \"QualityTest,\" \"ProcessingStep\") and QR-code scanning at aggregation nodes, stakeholders gain end-to-end visibility, enabling rapid verification of provenance, streamlined certification for export and robust audit trails to support both biodiversity conservation and supply-chain efficiency. When herbs are formulated into finished products, unique, serialised QR codes generated by the blockchain platform could be affixed to each package. End customers scan these codes with a mobile app or web portal\u2014powered by the same blockchain ledger\u2014to retrieve a FHIR-style provenance bundle detailing each upstream event: farm of origin, harvest conditions, intermediary custody, laboratory certificates and batch formulation parameters. This consumer-facing transparency not only verifies authenticity and builds trust, but also supports ethical marketing, enables rapid recall management and fosters incentives for sustainable collection practices by linking premium pricing to verified harvest data. Over time, analytics on consumer scans can feed back into demand forecasting, closing the loop between consumer assurance and supply-chain optimisation.\n\nDescription\n\nA permissioned blockchain network will immutably record every stage of an Ayurvedic herb's journey\u2014from geo-tagged harvest events by farmers or wild collectors, through multi-stage processing and laboratory testing, to the finished product on retail shelves. At the point of collection, GPS-enabled mobile or IoT devices capture precise location, timestamp, collector identity, species identification and initial quality metrics as a \"Collection Event.\" Subsequent \"Processing Step\" and \"Quality Test\" events\u2014each embedding standardised metadata bundles\u2014are added by processing facilities and testing laboratories. Smart contracts enforce National Medicinal Plants Board sustainability guidelines and Good Agricultural and Collection Practices by automatically validating geo-fencing rules, seasonal restrictions and quality thresholds before committing each transaction to the ledger.\n\nWhen formulation is complete, unique QR codes generated on-chain are affixed to product packaging. End customers scan these codes via a lightweight web or mobile portal (no specialised app required) to retrieve the full provenance record: farm coordinates and harvest conditions; chain-of-custody handoffs; lab certificates for moisture, pesticide and DNA-barcode tests; and sustainability and fair-trade compliance proofs. This consumer-facing transparency assures authenticity and safety, enables rapid recall notifications for affected batches and tells the story of each product\u2014complete with interactive maps and farmer or community profiles. By combining tamper-proof audit trails, geo-tagged traceability and automated compliance enforcement, the system delivers a replicable model for ethical, sustainable and trust-driven Ayurvedic herb sourcing.\n\nExpected Solution\n\nParticipants will deliver a proof-of-concept blockchain-based botanical traceability system addressing end-to-end provenance of Ayurvedic herbs. The solution should include the following core components and capabilities:\n\n1. Permissioned Blockchain Network\n\u2022 A lightweight, permissioned ledger (e.g., Hyperledger Fabric or Corda) that records every supply-chain transaction.\n\u2022 Network nodes representing farmers' cooperatives, wild-collector groups, testing laboratories, processing facilities and manufacturers.\n\u2022 Smart contracts enforcing:\n- Geo-fencing rules based on collectors' GPS coordinates and approved harvesting zones.\n- Seasonal-harvest restrictions and species-specific conservation limits per National Medicinal Plants Board guidelines.\n- Quality-gate validations (e.g., moisture thresholds, pesticide limits, DNA barcoding checks).\n\n2. Geo-Tagged Data Capture\n\u2022 IoT/GPS-enabled mobile DApp (or SMS-over-blockchain gateway) for collectors to record \"CollectionEvent\" metadata: latitude/longitude, timestamp, collector ID, species and initial quality metrics.\n\u2022 Sensor integrations or manual interfaces for \"QualityTest\" events (lab results) and \"ProcessingStep\" events (drying, grinding, storage conditions).\n\n3. Smart Labeling & Consumer Portal\n\u2022 On-chain generation of unique QR codes for each finished product batch.\n\u2022 A lightweight web/mobile portal (no specialised install required) allowing end customers to scan QR codes and retrieve a complete FHIR-style provenance bundle:\n- Collection location map and harvest details\n- Chain-of-custody handoffs through each supply-chain node\n- Laboratory certificates for moisture, pesticide analysis, DNA authentication\n- Sustainability compliance proofs and fair-trade verifications\n- Interactive farmer/community profiles and conservation credentials\n\n4. Integration & Interoperability\n\u2022 RESTful APIs for supply-chain managers to query real-time dashboards of harvest volumes, batch statuses, QA results and sustainability metrics.\n\u2022 Plugins or connectors to existing ERP/quality-management systems for seamless data exchange.\n\u2022 Use of FHIR-style resource models (CollectionEvent, QualityTest, ProcessingStep, Provenance) for standardized metadata exchange.\n\n5. User Interfaces & Reporting\n\u2022 A mobile DApp interface optimized for low-bandwidth rural environments, with offline data capture and SMS synchronization.\n\u2022 A web dashboard for stakeholders to monitor network health, query provenance records and generate compliance reports aligned with AYUSH Ministry export and sustainability requirements.\n\u2022 Automated reporting modules that compile environmental-impact metrics and conservation compliance data for certification bodies.\n\n6. Demonstration & Evaluation\n\u2022 A live pilot using one botanical species (e.g., Ashwagandha) across a small farming cooperative and a collaborating processor.\n\u2022 End-to-end demonstration: geo-tagging harvest, adding lab results, processing events, QR code scanning by simulated consumers and recall simulation.\n\u2022 Metrics collection on data-capture latency, transaction throughput, offline sync reliability and consumer-scan engagement.\n\nBy delivering these elements, participants will showcase a replicable, transparent and sustainable model for botanical traceability that bridges traditional Ayurvedic sourcing with modern blockchain technology and consumer empowerment.",
         Org: "Ministry of Ayush"
+      },
+      {
+        ID: "SIH25110",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "Provide ideas in a decentralized and distributed ledger technology used to store digital information that powers cryptocurrencies and NFTs and can radically change multiple sectors",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25127",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "Provide ideas in a decentralized and distributed ledger technology used to store digital information that powers cryptocurrencies and NFTs and can radically change multiple sectors",
+        Org: "AICTE"
       }
     ]
   },
@@ -742,6 +869,20 @@ export const data = [
         Category: "Software",
         Description: "Problem Background :\nThe Forest Rights Act (FRA), 2006 recognizes the rights of forest-dwelling communities over land and forest resources. However, significant challenges persist:\n\u2022 Legacy records of Individual Forest Rights (IFR), Community Rights (CR), and Community Forest Resource Rights (CFR) are scattered, non-digitized, and difficult to verify.\n\u2022 There is no centralized, real-time visual repository (e.g., an FRA Atlas) of FRA claims and granted Titles.\n\u2022 Integration of satellite-based asset mapping (land, water bodies, farms, etc.) with FRA data is missing.\n\u2022 Integration of legacy data with FRA Atlas is missing.\n\u2022 Decision-makers lack a Decision Support System (DSS) to layer Central Sector Schemes (CSS) benefits (e.g., PM-KISAN, Jal Jeevan Mission, MGNREGA, DAJGUA (3 ministries)) for FRA patta holders.\n\nProject Objectives\n1. Digitize and standardize legacy data of FRA claims, verifications, and pattas, and integrate with FRA Atlas. FRA patta holders\u2019 shapefiles to be integrated.\n2. Create an FRA Atlas showing potential and granted FRA areas using AI and satellite data.\n3. Integrate a WebGIS portal to visualize and manage spatial and socio-economic data.\n4. Use Remote Sensing and AI/ML to map capital and social assets (ponds, farms, forest resources) of FRA-holding villages.\n5. Build a Decision Support System (DSS) to recommend and layer CSS schemes based on mapped data, enhancing targeted development.\n\nAI & Tech Components\n1. Data Digitization\n\u2022 Use suitable models to extract and standardize text from scanned FRA documents.\n\u2022 Apply Named Entity Recognition (NER) to identify village names, patta holders, coordinates, and claim status.\n\n2. AI-based Asset Mapping\n\u2022 Employ Computer Vision on high-resolution satellite imagery to detect:\n  \u2022 Agricultural land\n  \u2022 Forest cover\n  \u2022 Water bodies (ponds, streams)\n  \u2022 Homesteads\n\u2022 Classify land-use using supervised ML models (e.g., Random Forest, CNN).\n\u2022 Add layers of information with respect to forest data, groundwater data, and infrastructure data (e.g., PM Gati Shakti).\n\n3. WebGIS Integration\n\u2022 Interactive layers (IFR/CR, village boundaries, land-use, assets)\n\u2022 Filters by state/district/village/tribal group\n\u2022 FRA progress tracking (village/block/district/state level)\n\n4. Decision Support System (DSS)\n\u2022 Build a rule-based + AI-enhanced DSS engine that:\n  \u2022 Cross-links FRA holders with eligibility for CSS schemes such as DAJGUA and others.\n  \u2022 Prioritizes interventions (e.g., borewells under Jal Shakti for villages with low water index).\n\nDeliverables\n1. AI-processed digital archive of FRA claims & decisions.\n2. An interactive FRA Atlas on a WebGIS platform.\n3. AI-generated asset maps for all FRA villages.\n4. A DSS engine for scheme layering and policy formulation.\n\nTarget Users\n\u2022 Ministry of Tribal Affairs\n\u2022 District-level Tribal Welfare Departments & Line Departments of DAJGUA\n\u2022 Forest and Revenue Departments\n\u2022 Planning & Development Authorities\n\u2022 NGOs working with tribal communities\n\nFuture Scope\n\u2022 Incorporate real-time satellite feeds for monitoring CFR forests.\n\u2022 Integrate IoT sensors for soil health, water quality, etc., in FRA lands (if feasible).\n\u2022 Enable mobile-based feedback and updates from patta holders themselves.",
         Org: "Ministry of Tribal Affairs(MoTA)"
+      },
+      {
+        ID: "SIH25115",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "Technology ideas in tertiary sectors like Hospitality, Financial Services, Entertainment and Retail.",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25132",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "Technology ideas in tertiary sectors like Hospitality, Financial Services, Entertainment and Retail.",
+        Org: "AICTE"
       }
     ]
   },
@@ -779,6 +920,20 @@ export const data = [
         Category: "Hardware",
         Description: "Background\n\nThe current dewatering system at our copper mining site relies heavily on electrically operated pumps, often supplemented by diesel generators during power outages. This traditional setup not only leads to high operational expenses due to electricity and fuel consumption, but also contributes to increased carbon emissions, operational complexity, and maintenance challenges.\n\nIn light of rising energy costs and the need for reliable and sustainable mine dewatering solutions, there is a pressing need to explore alternative approaches. Solar-powered dewatering systems offer a viable solution, leveraging renewable energy to reduce costs, ensure consistent pump operation, and support broader environmental and sustainability goals. Implementing such systems under an OPEX (Operational Expenditure) model aligns with the strategy to minimize capital expenditure while transitioning to cleaner and more efficient mining practices.\n\nProblem\n\nThis outlines the implementation of solar-powered dewatering pumps at the copper mining site under an OPEX model. The system will integrate solar photovoltaic (PV) modules with energy-efficient submersible or surface pumps, designed to meet site-specific dewatering requirements.\n\nA third-party vendor will be engaged to install, operate, and maintain the system through a Power Purchase Agreement (PPA) or operational lease, eliminating the need for upfront capital investment by HCL. The system can be configured as stand-alone solar or hybrid (solar with grid/diesel backup) to ensure uninterrupted pumping. The proposed solution aims to reduce operational energy costs, enhance dewatering reliability, and support environmental commitments by minimizing diesel use and lowering carbon emissions.\n\nTechnical specifications are attached.\n\nExpected Solution\n\nDeployment of solar-powered, energy-efficient dewatering pumps under an OPEX model to ensure reliable, low-cost, and eco-friendly mine dewatering. The system will reduce diesel and electricity usage, include hybrid backup, and feature vendor-managed operation and maintenance.",
         Org: "Ministry of Mines"
+      },
+      {
+        ID: "SIH25116",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "Innovative ideas that help manage and generate renewable /sustainable sources more efficiently.",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25133",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "Innovative ideas that help manage and generate renewable /sustainable sources more efficiently.",
+        Org: "AICTE"
       }
     ]
   },
@@ -795,6 +950,20 @@ export const data = [
         Category: "Hardware",
         Description: "Description\n\nDevelop a drone-based system to deliver medical supplies and communication devices to remote areas during natural disasters (floods, earthquakes). The drone should use AI for real-time navigation and obstacle avoidance, with a payload capacity of at least 5 kg.\n\nExpected Outcome\n\nA working drone prototype with a mobile app for disaster management teams to coordinate deliveries, reducing response time by 20% in inaccessible regions.\n\nTechnical Feasibility\n\nEmploys existing drone hardware with open-source flight control software (e.g., Ardupilot) and AI algorithms for navigation, tested in simulated disaster scenarios.",
         Org: "Government of Odisha"
+      },
+      {
+        ID: "SIH25117",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "There is a need to design drones and robots that can solve some of the pressing challenges of India such as handling medical emergencies, search and rescue operations, etc.",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25134",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "There is a need to design drones and robots that can solve some of the pressing challenges of India such as handling medical emergencies, search and rescue operations, etc.",
+        Org: "AICTE"
       }
     ]
   },
@@ -818,6 +987,20 @@ export const data = [
         Category: "Software",
         Description: "Kolams (known by other narnes as muggu, rangoli and rangavalli) are significant cultural traditions of India, blending art, ingenuity, and culture.\nThe designs vary by region, and the designs consist of grids of dots, with symmetry, repetition, and spatial reasoning embedded in them.\nThe Kolam designs provide a fascinating area of study for their strong mathematical underpinnings.\nThe challenge is to develop computer programs (in any language, preferably Python) to identify the design principles behind the Kolam designs and recreate the kolams.",
         Org: "AICTE"
+      },
+      {
+        ID: "SIH25113",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "Ideas that showcase the rich cultural heritage and traditions of India",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25130",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "Ideas that showcase the rich cultural heritage and traditions of India",
+        Org: "AICTE"
       }
     ]
   },
@@ -834,8 +1017,90 @@ export const data = [
         Category: "Software",
         Description: "Background\n\nIdentifying and assessing athletic talent in a country as vast and diverse as India is a significant challenge. Aspiring athletes, particularly from rural and remote areas, often lack access to standardized assessment facilities or opportunities to showcase their talent. The absence of reliable and scalable talent assessment models hinders the discovery of potential athletes who could benefit from Government support. A set of standard fitness assessment tests - including height, weight, vertical jump, shuttle run, sit-ups, and endurance runs (Annexure A) - provides a scientific method to evaluate talent. However, the reach and implementation of such tests remain limited due to infrastructure constraints.\n\nProblem Description\n\nThe Sports Authority of India (SAI) requires an innovative, mobile-based solution to democratize sports talent assessment. The proposed platform should:\n\n1. Enable athletes to download an app and record videos of their performance in the prescribed fitness assessment tests.\n2. Use AI/ML-based on-device verification to analyze the recorded videos for accuracy and authenticity (e.g., detecting jump height, counting sit-ups, or measuring time/distance in runs).\n3. Securely submit verified data to SAI servers for further evaluation and athlete profiling.\n4. Be low-cost and lightweight, ensuring accessibility even on entry-level smartphones and low-bandwidth networks.\n\nInnovative Features\n\n1. AI-based Cheat Detection: Identify anomalies or manipulations (e.g., tampered videos or incorrect movements) to ensure fair assessments.\n2. Offline Video Analysis: Perform preliminary performance analysis directly on the device without requiring continuous internet connectivity.\n3. Performance Benchmarking: Compare athlete performance against age/gender-based benchmarks, providing instant feedback.\n4. Gamified User Interface: Use progress badges, leaderboards, and interactive visuals to engage athletes and encourage participation.\n5. Auto-Test Segmentation: Automatically detect and segment performance clips (e.g., counting reps in sit-ups or analyzing vertical jumps) to reduce manual effort.\n\nExpected Deliverables\n\n1. A mobile application (Android/iOS) that allows video recording and assessment of athletes performance across the test batteries.\n2. AI/ML modules for on-device video analysis, verification of test results, and cheat detection.\n3. A secure backend system to transmit data to the Sports Authority of India for further processing.\n4. A dashboard for officials to view and evaluate verified performance data.\n\nExpected Impact\n\n1. Democratization of sports talent assessment, reaching even remote areas.\n2. Low-cost, scalable solution enabling mass participation in talent identification initiatives.\n3. Improved efficiency and transparency in evaluating and discovering potential athletes.",
         Org: "Ministry of Youth Affairs and Sports"
+      },
+      {
+        ID: "SIH25112",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "Ideas that can boost fitness activities and assist in keeping fit.",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25129",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "Ideas that can boost fitness activities and assist in keeping fit.",
+        Org: "AICTE"
+      }
+    ]
+  },
+  {
+    id: 16,
+    bucket: "Smart Vehicles",
+    icon: "GiAutoRepair",
+    hueDeg: 0,
+    image: "car.webp",
+    ps: [
+      {       
+        ID: "SIH25119",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "Creating intelligent devices to improve the commutation sector.",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25136",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "Creating intelligent devices to improve the commutation sector.",
+        Org: "AICTE"
+      }
+    ]
+  },
+  {
+    id: 17,
+    bucket: "Toys and Games",
+    icon: "GiAutoRepair",
+    hueDeg: 0,
+    image: "toy.webp",
+    ps: [
+      {
+        ID: "SIH25124",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "Challenges your creative minds to conceptualize and develop unique toys & games",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25141",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "Challenges your creative minds to conceptualize and develop unique toys & games",
+        Org: "AICTE"
+      }
+    ]
+  },
+  {
+    id: 18,
+    bucket: "Space Technology",
+    icon: "GiAutoRepair",
+    hueDeg: 0,
+    image: "space.webp",
+    ps: [
+      {
+        ID: "SIH25125",
+        Title: "Student Innovation",
+        Category: "Hardware",
+        Description: "For use of travel or activities beyond earth's atmosphere, for purposes such as spaceflight or space exploration.",
+        Org: "AICTE"
+      },
+      {
+        ID: "SIH25142",
+        Title: "Student Innovation",
+        Category: "Software",
+        Description: "For use of travel or activities beyond earth's atmosphere, for purposes such as spaceflight or space exploration.",
+        Org: "AICTE"
       }
     ]
   }
 ];
-
